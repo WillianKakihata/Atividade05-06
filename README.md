@@ -1,3 +1,6 @@
+# Alunos:
+#### RENAN TONON DE OLIVEIRA RA: 22188153-2
+#### WILLIAN HIDEAKI KAKIHATA RA: 22015763-2
 # Atividade: Fundamentos e Prática com Microsserviços  
 ### 1. Explique com suas palavras o que caracteriza uma arquitetura de microsserviços.  
 **Resposta:** Arquitetura de microsserviços se basea-se em dividir o sistemas em pequenas funcionalidades que se comunicam entre si.  
